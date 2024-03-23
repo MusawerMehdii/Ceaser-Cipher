@@ -4,8 +4,8 @@ This Python script provides functions to encrypt and decrypt messages using the 
 
 Usage
 To use the functions provided, simply include the vigenere.py file in your project directory and import the functions into your Python script.
-F
-unctions
+
+Functions listen and useage
 encrypt(message, key)
 Encrypts the given message using the provided key,
 message: The message to be encrypted.
